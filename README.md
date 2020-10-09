@@ -1,0 +1,1 @@
+Uma simples aplicação acessando banco de dados Postgresql e realizando o deploy no Heroku
